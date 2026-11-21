@@ -10,8 +10,8 @@ body {
 }
 h1
 {
-	color: orange
-	font: 30 ptx
+	color: orange;
+	font-size: 40ptx;
 }
 
 button {

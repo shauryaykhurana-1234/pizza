@@ -1,4 +1,6 @@
-ody {
+
+
+body {
 	font-family: system-ui, sans-serif;
 	display: grid;
 	place-content: center;
@@ -6,6 +8,11 @@ ody {
 	margin: 0;
 	text-align: center;
 }
+h1
+{
+	color: orange
+}
+
 button {
 	padding: 0.6rem 1.2rem;
 	font-size: 1rem;
